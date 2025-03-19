@@ -1,0 +1,66 @@
+{
+    "0": {
+        "message": "Number with more then 1 decimal point",
+        "suggestion": "Consider removing all but one decimal point"
+    },
+
+    "1": {
+        "message": "Left parenthesis missing",
+        "suggestion": "Consider adding a left parenthesis to the coresponding right parenthesis"
+    },
+
+    "2": {
+        "message": "Left brace missing",
+        "suggestion": "Consider adding a left brace to the coresponding right brace"
+    },
+    
+    "3": {
+        "message": "Left bracket missing",
+        "suggestion": "Consider adding a left bracket to the coresponding right bracket"
+    },
+
+    "4": {
+        "message": "Right parenthesis missing",
+        "suggestion": "Consider adding a right parenthesis to the coresponding left parenthesis"
+    },
+
+    "5": {
+        "message": "Right brace missing",
+        "suggestion": "Consider adding a right brace to the coresponding left brace"
+    },
+    
+    "6": {
+        "message": "Right bracket missing",
+        "suggestion": "Consider adding a right bracket to the coresponding left bracket"
+    },
+
+    "7": {
+        "message": "More then 1 character in a ''",
+        "suggestion": "Consider changing the single quotes to double quotes"
+    },
+
+    "8": {
+        "message": "Only 1 character in a \"\"",
+        "suggestion": "Consider changing the double quotes to single quotes"
+    },
+
+    "9": {
+        "message": "No closing '",
+        "suggestion": "Consider adding a ' to match the end of the character"
+    },
+
+    "10": {
+        "message": "No closing \"",
+        "suggestion": "Consider adding a \" to match the end of the stirng"
+    },
+
+    "11": {
+        "message": "No closing ; in the file",
+        "suggestion": "Consider adding a ; the end of the file"
+    },
+
+    "12": {
+        "message": "No closing ; in the scope",
+        "suggestion": "Consider adding a ; the end of the scope"
+    }
+}

@@ -1,0 +1,9 @@
+let balls (string) = "hewwo uwu" ^ ;
+balls
+
+println("Hello, Sigmas!") (3 + 3);
+
+print("lol");
+print("\n");
+
+println("hi");
